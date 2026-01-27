@@ -142,19 +142,34 @@ a:active, a:not([href]):not([tabindex]):active {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-/* Footer links styling */
-footer a {
+/* Footer links styling - override Bootstrap */
+footer a:not(.btn):not(.nav-link) {
   color: #667eea !important;
-  text-decoration: underline;
-  transition: all 0.2s ease-in-out;
+  text-decoration: underline !important;
+  transition: all 0.2s ease-in-out !important;
 }
 
-footer a:hover {
+footer a:not(.btn):not(.nav-link):hover {
   color: #764ba2 !important;
-  text-decoration: underline;
-  text-decoration-color: #f56565;
-  text-decoration-style: wavy;
-  text-underline-offset: 4px;
+  text-decoration: underline !important;
+  text-decoration-color: #f56565 !important;
+  text-decoration-style: wavy !important;
+  text-underline-offset: 4px !important;
+}
+
+/* Additional specificity for footer links */
+footer .link-secondary,
+footer .text-decoration-none {
+  color: #667eea !important;
+  text-decoration: underline !important;
+}
+
+footer .link-secondary:hover,
+footer .text-decoration-none:hover {
+  color: #764ba2 !important;
+  text-decoration-color: #f56565 !important;
+  text-decoration-style: wavy !important;
+  text-underline-offset: 4px !important;
 }
 
 /* Responsive design */
