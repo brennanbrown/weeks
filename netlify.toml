@@ -3,7 +3,7 @@
   command = "bundle exec jekyll build"
 
 [build.environment]
-  RUBY_VERSION = "3.1"
+  RUBY_VERSION = "3.2.2"
 
 # Force HTTPS
 [[redirects]]
