@@ -175,8 +175,8 @@
     link: "https://brennan-evolveu.netlify.app/"
 
 "2020-03-14":
-  - name: "🌍 I experienced the start of the COVID-19 pandemic"
-    desc: "The global lockdowns began, fundamentally changing society"
+  - name: "🌍 Worldwide lockdowns due to COVID-19 began"
+    desc: "The global lockdowns began, fundamentally changing society. I didn't leave my house for months"
     category: "world"
     tags: ["history", "health"]
 
@@ -255,7 +255,7 @@
 
 "2022-09-30":
   - name: "📈 I completed the OnRamp Marketing Program"
-    desc: "I finished marketing bootcamp with my focus being on content strategy and growth"
+    desc: "I finished marketing bootcamp with my focus being on content strategy and growth. The operation became defunct after the 2nd cohort"
     category: "education"
     tags: ["marketing"]
 
@@ -292,7 +292,7 @@
     link: "https://brennanbrown.gumroad.com/l/weight-of-yr-heart"
 
 "2024-03-19":
-  - name: "📓 'On the Fringe: Collection of Filth' published"
+  - name: "📓 'On the Fringe: Filth' published"
     desc: "Write Club published their first anthology with my foreword, exploring difficult and taboo topics of human experience: sex, death, and crime"
     category: "writing"
     tags: ["publication", "anthology", "foreword"]
@@ -313,7 +313,7 @@
     link: "https://brennanbrown.gumroad.com/l/your-brothers-keeper"
 
 "2024-08-11":
-  - name: "📚 I published 'The Reaper and Her Sickle'"
+  - name: "📚 I published 'The Reaper & Her Sickle'"
     desc: "A larger book of poetry which was experimental writings from my university years. Rough cuts, spares, afterthoughts, and B-sides. Glimpse into my creative process"
     category: "writing"
     tags: ["poetry", "publication", "experimental"]
@@ -327,7 +327,7 @@
     link: "https://doi.org/10.13140/RG.2.2.25021.37600"
 
 "2024-12-11":
-  - name: "📚 I published 'PRAIRIE BOYSPIRIT: An NDN Memoir'"
+  - name: "📚 I published 'PRAIRIE BOYSPIRIT: NDN Memoir'"
     desc: "A series of lyricessays confronting addiction, white-passingness, self-harm, and cultural displacement as a Queer Métis man in Alberta"
     category: "writing"
     tags: ["publication", "essays", "memoir", "indigenous"]
@@ -341,7 +341,7 @@
     link: "https://brennan.day/29-done/"
 
 "2025-04-12":
-  - name: "📓 'On the Fringe: Collection of Community' published"
+  - name: "📓 'On the Fringe: Community' published"
     desc: "Write Club's second anthology with my foreword, showcasing over twenty emerging writers exploring tradition, companionship, and vision"
     category: "writing"
     tags: ["publication", "anthology", "foreword", "community"]
@@ -375,37 +375,30 @@
 
 "2029-04-13":
   - name: "☄️ Asteroid Apophis Close Approach"
-    desc: "Asteroid 99942 Apophis ('God of Chaos') (measuring 450m x 170m) will pass within 31,000 km of Earth's surface - closer than geostationary satellites and visible to the naked eye from Europe, Africa, and Asia. First time an asteroid this size with advance warning has come this close to Earth."
+    desc: "Asteroid 99942 Apophis ('God of Chaos') (measuring 450m x 170m) will pass within 31,000 km of Earth's surface, closer than geostationary satellites and visible to the naked eye from Europe, Africa, and Asia. First time an asteroid this size with advance warning has come this close to Earth. On my 33rd birthday!"
     category: "world"
     tags: ["astronomy", "asteroid"]
     link: "https://en.wikipedia.org/wiki/99942_Apophis"
-    link: "https://science.nasa.gov/solar-system/asteroids/apophis/"
-    link: "https://www.planetary.org/articles/will-apophis-hit-earth"
 
 "2038-01-19":
   - name: "💻 The Y2038 Problem"
     desc: "At 03:14:07 UTC, 32-bit systems will experience timestamp overflow, potentially causing critical failures in embedded systems, infrastructure, and legacy software that haven't upgraded to 64-bit timestamps. Similar to Y2K but affecting systems that weren't updated."
     category: "world"
     tags: ["technology", "infrastructure"]
-    link: "https://en.wikipedia.org/wiki/Year_2038_problem"
     link: "https://theyear2038problem.com/"
-    link: "https://inventivehq.com/blog/year-2038-problem-explained"
 
 "2040-09-08":
   - name: "🪐 Five-Planet Alignment"
     desc: "Mercury, Venus, Mars, Jupiter, and Saturn will all fit within a 9.3-degree diameter circle in the sky, with a thin crescent moon below them. This rare alignment won't occur again for centuries."
     category: "world"
     tags: ["astronomy", "planets"]
-    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
-    link: "https://www.space.com/stargazing/when-is-next-planetary-parade-how-rare-are-they"
+    link: "https://www.forbes.com/sites/jamiecartereurope/2025/01/23/a-planetary-alignment-is-here-now-wait-for-the-golden-conjunction/"
 
 "2045-05-08":
   - name: "🌍 100th Anniversary of VE Day"
     desc: "Centennial of Nazi Germany's unconditional surrender, marking the end of World War II in Europe. May 8, 1945 marked one of the most significant turning points in human history."
     category: "world"
     tags: ["history", "anniversary", "peace"]
-    link: "https://en.wikipedia.org/wiki/Victory_in_Europe_Day"
-    link: "https://www.defense.gov/Multimedia/Experience/VE-Day/"
 
 "2045-08-12":
   - name: "☀️ Total Solar Eclipse (Coast-to-Coast USA)"
@@ -413,8 +406,6 @@
     category: "world"
     tags: ["astronomy", "eclipse"]
     link: "https://www.cbsnews.com/news/next-total-solar-eclipse-2044-2045/"
-    link: "https://nationaleclipse.com/maps/map_08232044.html"
-    link: "https://en.wikipedia.org/wiki/List_of_future_astronomical_events"
 
 
 "2050-01-01":
@@ -422,45 +413,35 @@
     desc: "The year 2050 marks the target date set by the Paris Agreement for achieving net-zero carbon dioxide emissions globally. This deadline represents humanity's commitment to limiting global warming to 1.5°C above pre-industrial levels. Whether achieved or not, this date will mark a critical assessment point for climate action."
     category: "world"
     tags: ["climate", "environment", "milestone"]
-    link: "https://unstats.un.org/sdgs/report/2021/goal-13/"
     link: "https://www.unep.org/news-and-stories/story/without-big-changes-what-environment-will-look-2050"
-    link: "https://www.nature.com/articles/d41586-025-04100-6"
 
 "2052-12-06":
   - name: "🌕 Closest Supermoon of the Century"
     desc: "The Moon will reach its closest approach to Earth at 221,472 miles (356,424 km) - the closest full moon of the entire 21st century. An astronomical event that won't be matched for another hundred years."
     category: "world"
     tags: ["astronomy", "moon"]
-    link: "https://en.wikipedia.org/wiki/Supermoon"
-    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
-    link: "https://www.futuretimeline.net/21stcentury/2052.htm"
+    link: "https://earthsky.org/tonight/closest-supermoon-since-1948/"
 
 "2061-07-28":
   - name: "☄️ Halley's Comet Returns"
-    desc: "Halley's Comet reaches perihelion and will be visible from Earth for several months. This 76-year periodic comet has been observed and recorded for over 2,000 years. Last visible in 1986, this will be a once-in-a-lifetime viewing opportunity for most people alive today."
+    desc: "Halley's Comet reaches perihelion, and will be visible from Earth for several months. This 76-year periodic comet has been observed and recorded for over 2,000 years. Last visible in 1986, this will be a once-in-a-lifetime viewing opportunity for most people alive today."
     category: "world"
     tags: ["astronomy", "comet"]
-    link: "https://en.wikipedia.org/wiki/Halley's_Comet"
-    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
-    link: "https://www.space.com/19878-halleys-comet.html"
+    link: "https://www.sciencedirect.com/science/article/pii/S0032063325001321"
 
 "2065-11-22":
   - name: "🪐 Venus Transits Jupiter"
     desc: "At 12:43 UTC, Venus will pass directly in front of Jupiter - the first visible transit between solar system planets since 1818. This extraordinarily rare event won't happen again for centuries, though it will be only 8° from the Sun making observation challenging."
     category: "world"
     tags: ["astronomy", "planets", "occultation"]
-    link: "https://en.wikipedia.org/wiki/Planetary_transits_and_occultations"
-    link: "https://www.astronomy.com/observing/do-the-planets-ever-transit-or-occult-each-other/"
-    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
+    link: "https://www.universetoday.com/articles/see-venus-meet-jupiter-in-the-dawn-sky"
 
 "2067-07-01":
   - name: "🇨🇦 Canada's Bicentennial"
-    desc: "The 200th anniversary of Canadian Confederation. As a Métis person born in Winnipeg and now living in Calgary, this anniversary will mark two centuries since the British North America Act of 1867, a deeply complex legacy for Indigenous peoples, whose lands these have always been. A moment for reflection on reconciliation, sovereignty, and what Canada could become."
+    desc: "The 200th anniversary of Canadian Confederation. As a Métis person born in Winnipeg and now living in Calgary, this anniversary will mark two centuries since the British North America Act of 1867, a violent legacy for Indigenous peoples, whose lands these have always been. I  hope we will be in a better place with reconciliation, sovereignty, and what Canada could become."
     category: "world"
     tags: ["canada", "anniversary", "indigenous", "métis", "reconciliation"]
-    link: "https://www.federationhss.ca/en/blog/sesquicentennial-no-longer-just-about-canada"
-    link: "https://en.wikipedia.org/wiki/Canadian_Centennial"
-    link: "https://www.cbc.ca/2017/canada-is-celebrating-150-years-of-what-exactly-1.3883315"
+    link: "https://letstalkscience.ca/sites/default/files/2023-10/EN_Canada2067.pdf"
 
 "2071-04-13":
   - name: "☠️ I will reach my statistical life expectancy"
@@ -470,10 +451,10 @@
 
 "2076-07-04":
   - name: "🇺🇸 United States Tricentennial"
-    desc: "The 300th anniversary of the signing of the Declaration of Independence. Three centuries since July 4, 1776. Will America survive?"
+    desc: "The 300th anniversary of the signing of the Declaration of Independence. Three centuries since July 4, 1776. Will America survive to see it?"
     category: "world"
     tags: ["america", "anniversary", "history"]
-    link: "https://en.wikipedia.org/wiki/United_States_Semiquincentennial"
+    link: "https://www.aei.org/articles/america-2076/"
 
 "2096-04-13":
   - name: "🚲 I will ride a bike on my 100th birthday"
