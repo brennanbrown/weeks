@@ -95,9 +95,9 @@ a:active, a:not([href]):not([tabindex]):active {
 .legend-item[data-category="birthday"] { background-color: #ecc94b; color: #2d3748; }
 .legend-item[data-category="identity"] { background-color: #ed64a6; color: white; }
 .legend-item[data-category="art"] { background-color: #f687b3; color: white; }
-.legend-item[data-category="music"] { background-color: #9f7aea; color: white; }
+.legend-item[data-category="music"] { background-color: #db5e4a; color: white; }
 .legend-item[data-category="future"] { background-color: #a0aec0; color: white; }
-.legend-item[data-category="goal"] { background-color: #805ad5; color: white; }
+.legend-item[data-category="goal"] { background-color: #e0e0e0; color: black; }
 
 /* Week boxes */
 .week {
@@ -121,15 +121,14 @@ a:active, a:not([href]):not([tabindex]):active {
 .week a[data-category="birthday"] { background-color: #ecc94b !important; color: #2d3748 !important; }
 .week a[data-category="identity"] { background-color: #ed64a6 !important; color: white !important; }
 .week a[data-category="future"] { background-color: #a0aec0 !important; color: white !important; }
-.week a[data-category="goal"] { background-color: #805ad5 !important; color: white !important; }
+.week a[data-category="goal"] { background-color: #e0e0e0 !important; color: black !important; }
 .week a[data-category="art"] { background-color: #f687b3 !important; color: white !important; }
-.week a[data-category="music"] { background-color: #9f7aea !important; color: white !important; }
+.week a[data-category="music"] { background-color: #db5e4a !important; color: white !important; }
 
 /* Event links styling */
 .week a {
   display: inline-block;
   padding: 2px 6px;
-  margin: 1px;
   border-radius: 3px;
   font-size: 0.75rem;
   font-weight: 600;

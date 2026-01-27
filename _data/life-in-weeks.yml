@@ -76,7 +76,7 @@
     link: "https://augustin.bandcamp.com/album/rivi-re-dreamers"
 
 "2013-09-01":
-  - name: "🎓 I started at Alternative High School"
+  - name: "🎓 I enrolled at Alternative High School"
     desc: "After a year of not going to school, I began an alternative education path that worked out a lot better for me"
     category: "education"
     tags: ["schooling"]
@@ -129,8 +129,8 @@
     link: "https://blog.brennanbrown.ca/21-structure-chaos-ca5545d8dfdb"
 
 "2017-09-01":
-  - name: "🎓 I began studying at SAIT"
-    desc: "I enrolled at the Southern Alberta Institute of Technology, aiming to get a diploma in Information Technology to start a career in software development"
+  - name: "🎓 I enrolled at SAIT"
+    desc: "I began studying at the Southern Alberta Institute of Technology, aiming to get a diploma in Information Technology to start a career in software development"
     category: "education"
     tags: ["technology"]
 
@@ -199,6 +199,7 @@
     desc: "I finished the full-stack development bootcamp with focus on JavaScript, React, Python"
     category: "education"
     tags: ["technology", "programming"]
+    link: "https://inceptionu.com/"
 
 "2021-04-13":
   - name: "🎂 I turned 25: The Mystery of My Broken Heart"
@@ -215,7 +216,7 @@
     link: "https://www.amazon.ca/DOGWOOD-VERSES-Chapbook-Selected-2011-2021/dp/B09KN7Y9K1/"
 
 "2021-09-09":
-  - name: "📚 I began studying at Mount Royal University"
+  - name: "🎓 I enrolled at Mount Royal University"
     desc: "COVID-19 made me realize I wanted to pursue humanities instead of making money in software development, so I enrolled and got accepted into the English Honours program at MRU, with double minor in Creative Writing & Religious Studies"
     category: "education"
     tags: ["writing", "academics"]
@@ -232,6 +233,7 @@
     desc: "My dad did the paperwork necessary to have me be registered as a member of MMF, connecting me to my heritage and identity"
     category: "identity"
     tags: ["métis", "community"]
+    link: "https://www.mmf.mb.ca/"
 
 "2022-05-06":
   - name: "📈 I began the OnRamp Marketing Program"
@@ -248,7 +250,7 @@
 
 "2022-09-01":
   - name: "✍️ I founded Write Club"
-    desc: "I started a creative writing collective while at university and served as President for three years"
+    desc: "I started a creative writing collective while at university, and served as President for three years"
     category: "work"
     tags: ["writing", "community"]
     link: "https://writeclub.ca"
@@ -277,6 +279,7 @@
     desc: "I provided guidance on digital presence and marketing strategies for Alberta's leading plant-based non-profit"
     category: "volunteer"
     tags: ["community", "marketing"]
+    link: "https://calgaryvegansociety.com/"
 
 "2023-09-15":
   - name: "🏆 I joined Golden Key Honour Society"
@@ -333,12 +336,11 @@
     tags: ["publication", "essays", "memoir", "indigenous"]
     link: "https://brennanbrown.gumroad.com/l/prairie-boyspirit"
 
-"2025-04-13":
-  - name: "🎂 I turned 29: Done"
-    desc: "Annual review reflecting on university completion, burnout, community building, and the uncertain path forward as a writer"
-    category: "birthday"
-    tags: ["annual review"]
-    link: "https://brennan.day/29-done/"
+"2025-04-01":
+  - name: "🎓 I graduated from Mount Royal University"
+    desc: "I successfully completed my Bachelor of Arts degree, majoring in English Honours with a 3.8 GPA by the end of it!"
+    category: "education"
+    tags: ["academics"]
 
 "2025-04-12":
   - name: "📓 'On the Fringe: Community' published"
@@ -347,11 +349,12 @@
     tags: ["publication", "anthology", "foreword", "community"]
     link: "https://www.amazon.ca/Fringe-Collection-Felix-Costa-Gomez/dp/B0F4PKFRZQ/"
 
-"2025-04-01":
-  - name: "🎓 I graduated from Mount Royal University"
-    desc: "I successfully completed my Bachelor of Arts degree, majoring in English Honours with a 3.8 GPA by the end of it!"
-    category: "education"
-    tags: ["academics"]
+"2025-04-13":
+  - name: "🎂 I turned 29: Done"
+    desc: "Annual review reflecting on university completion, burnout, community building, and the uncertain path forward as a writer"
+    category: "birthday"
+    tags: ["annual review"]
+    link: "https://brennan.day/29-done/"
 
 "2025-08-01":
   - name: "🍓 I founded Berry House"
@@ -457,7 +460,7 @@
     link: "https://www.aei.org/articles/america-2076/"
 
 "2096-04-13":
-  - name: "🛴 I will scooter-ride when I turn 100"
+  - name: "🛴 I will scooter-ride when I turn 100!"
     desc: "Similar to Buster Benson, I have this goal of wanting to maintain my health and vitality into my centenarian years!"
     category: "goal"
     tags: ["health", "longevity"]
