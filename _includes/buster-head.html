@@ -27,7 +27,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta property="og:description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 }}">
-    <meta property="og:image" content="{{ site.url }}/assets/favicon.png">
+    <meta property="og:image" content="{{ site.url }}/assets/favicon.svg">
     <meta property="og:image:alt" content="{{ site.title }} - Life in Weeks Visualization">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:locale" content="en_US">
@@ -37,7 +37,7 @@
     <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta property="twitter:description" content="{{ site.description | strip_html | normalize_whitespace | truncate: 160 }}">
-    <meta property="twitter:image" content="{{ site.url }}/assets/favicon.png">
+    <meta property="twitter:image" content="{{ site.url }}/assets/favicon.svg">
     <meta property="twitter:creator" content="@{{ site.twitter }}">
     <meta property="twitter:site" content="@{{ site.twitter }}">
 
@@ -53,10 +53,11 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
     <!-- Favicon and Icons -->
-    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicon.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicon.png">
-    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/favicon.png">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="{{ site.baseurl }}/assets/favicon.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicon.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicon.svg">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/favicon.svg">
 
     <!-- Fonts and Styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Fredoka+One&display=swap">
