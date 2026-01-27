@@ -1,0 +1,12 @@
+{
+  "name": "weeks",
+  "version": "1.0.0",
+  "description": "Life in weeks visualization",
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve",
+    "clean": "bundle exec jekyll clean"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}

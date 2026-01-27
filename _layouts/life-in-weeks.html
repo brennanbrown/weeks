@@ -1,5 +1,5 @@
 ---
-title: Life in Weeks
+title: Brennan Kenneth Brown
 layout: fullscreen
 max_width: false
 ---
@@ -21,6 +21,27 @@ max_width: false
             {% include header_fullscreen.html %}
 
             {{content}}
+            
+            <!-- Category Legend -->
+            <div class="category-legend mb-4 p-3 bg-light rounded">
+                <h6 class="mb-3 font-weight-bold">Categories</h6>
+                <div class="d-flex flex-wrap gap-2">
+                    <span class="legend-item" data-category="self">👶 Personal</span>
+                    <span class="legend-item" data-category="family">👨‍👩‍👧‍👦 Family</span>
+                    <span class="legend-item" data-category="work">💼 Work</span>
+                    <span class="legend-item" data-category="education">🎓 Education</span>
+                    <span class="legend-item" data-category="writing">✍️ Writing</span>
+                    <span class="legend-item" data-category="technology">💻 Technology</span>
+                    <span class="legend-item" data-category="volunteer">🤝 Volunteer</span>
+                    <span class="legend-item" data-category="world">🌍 World</span>
+                    <span class="legend-item" data-category="birthday">🎂 Birthday</span>
+                    <span class="legend-item" data-category="identity">🪶 Identity</span>
+                    <span class="legend-item" data-category="art">🎨 Art</span>
+                    <span class="legend-item" data-category="music">🎵 Music</span>
+                    <span class="legend-item" data-category="future">🔮 Future</span>
+                    <span class="legend-item" data-category="goal">🎯 Goal</span>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -73,7 +94,8 @@ max_width: false
                 {% if specific_date < next_year %} {% for event in data[specific_date] %} <a {% if event.link
                     %}href="{{ event.link }}" {% endif %} title="{{ specific_date | date: " %b %-d, %Y" }}"
                     target="_new" {% if event.desc %}data-toggle="popover" data-placement="auto" {% endif %}
-                    title="{{ specific_date }}" data-trigger="hover" data-content="{{ event.desc }}">{{ event.name
+                    title="{{ specific_date }}" data-trigger="hover" data-content="{{ event.desc }}" 
+                    data-category="{{ event.category }}">{{ event.name
                     }}</a>
                     {% endfor %}
                     {% endif %}

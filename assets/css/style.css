@@ -1,0 +1,172 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Base styles - override Bootstrap */
+body {
+  font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  line-height: 1.6;
+  color: #2d3748;
+}
+
+/* Typography - override Bootstrap */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.125rem; }
+h6 { font-size: 1rem; }
+
+/* Link styles with interesting color palette - override Bootstrap */
+a, a:not([href]):not([tabindex]) {
+  color: #667eea !important;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+}
+
+a:visited {
+  color: #9f7aea !important;
+}
+
+a:focus, a:not([href]):not([tabindex]):focus {
+  outline: 2px solid #4299e1;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+a:active, a:not([href]):not([tabindex]):active {
+  transform: translateY(1px);
+}
+
+/* Content area styling */
+.container, .main-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Life in weeks specific styles */
+.life-weeks-container {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+  margin: 2rem auto;
+}
+
+/* Category Legend */
+.category-legend {
+  background: white;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.legend-item {
+  display: inline-block;
+  margin: 4px 8px;
+  padding: 4px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: default;
+  transition: transform 0.2s ease-in-out;
+}
+
+.legend-item:hover {
+  transform: scale(1.05);
+}
+
+/* Legend item colors matching event colors */
+.legend-item[data-category="self"] { background-color: #667eea; color: white; }
+.legend-item[data-category="family"] { background-color: #48bb78; color: white; }
+.legend-item[data-category="work"] { background-color: #ed8936; color: white; }
+.legend-item[data-category="education"] { background-color: #4299e1; color: white; }
+.legend-item[data-category="writing"] { background-color: #9f7aea; color: white; }
+.legend-item[data-category="technology"] { background-color: #38b2ac; color: white; }
+.legend-item[data-category="volunteer"] { background-color: #f56565; color: white; }
+.legend-item[data-category="world"] { background-color: #718096; color: white; }
+.legend-item[data-category="birthday"] { background-color: #ecc94b; color: #2d3748; }
+.legend-item[data-category="identity"] { background-color: #ed64a6; color: white; }
+.legend-item[data-category="art"] { background-color: #f687b3; color: white; }
+.legend-item[data-category="music"] { background-color: #9f7aea; color: white; }
+.legend-item[data-category="future"] { background-color: #a0aec0; color: white; }
+.legend-item[data-category="goal"] { background-color: #805ad5; color: white; }
+
+/* Week boxes */
+.week {
+  transition: all 0.2s ease-in-out;
+}
+
+.week:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+/* Category colors for event links */
+.week a[data-category="self"] { background-color: #667eea !important; color: white !important; }
+.week a[data-category="family"] { background-color: #48bb78 !important; color: white !important; }
+.week a[data-category="work"] { background-color: #ed8936 !important; color: white !important; }
+.week a[data-category="education"] { background-color: #4299e1 !important; color: white !important; }
+.week a[data-category="writing"] { background-color: #9f7aea !important; color: white !important; }
+.week a[data-category="technology"] { background-color: #38b2ac !important; color: white !important; }
+.week a[data-category="volunteer"] { background-color: #f56565 !important; color: white !important; }
+.week a[data-category="world"] { background-color: #718096 !important; color: white !important; }
+.week a[data-category="birthday"] { background-color: #ecc94b !important; color: #2d3748 !important; }
+.week a[data-category="identity"] { background-color: #ed64a6 !important; color: white !important; }
+.week a[data-category="future"] { background-color: #a0aec0 !important; color: white !important; }
+.week a[data-category="goal"] { background-color: #805ad5 !important; color: white !important; }
+.week a[data-category="art"] { background-color: #f687b3 !important; color: white !important; }
+.week a[data-category="music"] { background-color: #9f7aea !important; color: white !important; }
+
+/* Event links styling */
+.week a {
+  display: inline-block;
+  padding: 2px 6px;
+  margin: 1px;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: all 0.2s ease-in-out;
+}
+
+.week a:hover {
+  transform: scale(1.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .container, .main-content {
+    padding: 1rem;
+  }
+  
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #5a67d8, #6b46c1);
+}

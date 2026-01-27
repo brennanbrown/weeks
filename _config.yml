@@ -18,32 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Watery Theme for Jekyll 🚰
+title: "📅 Brennan Kenneth Brown | Life in Weeks"
 email: mail@brennanbrown.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  A minimalist, bare-bones theme for Jekyll only using the Water.css
-  framework while still following the best practices possible for
-  accessibility and search-engine optimization.
+  A visualization of a life in weeks, tracking meaningful events and
+  the passage of time. Each week is a small box, marking the journey
+  through life's significant moments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://watery.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/watery
+url: "https://weeks.brennan.day" # the base hostname & protocol for your site, e.g. http://example.com
+repository: brennanbrown/weeks
 twitter: brennankbrown
 github: brennanbrown
 
 google_analytics:
-comments: true
-disqus: watery-jekyll
+comments: false
+disqus: null
 
 author: Brennan K. Brown
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 24-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
+  Creator of the Life in Weeks visualization, exploring how meaningful events
+  shape our journey through time. Métis web developer passionate about 
+  data visualization and personal storytelling.
 author_pic: https://brennanbrown.ca/img/avatar.png
-paginate: 5
-paginate_path: "/blog/:num/"
+# Pagination disabled - not needed for life in weeks visualization
 
 markdown: kramdown
 
@@ -56,17 +53,7 @@ theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
-permalink: /:title
-
-theme_switcher: false
-
-# Allows all pages to be put into `_pages` folder
-# for easier navigation and better SEO.
-collections:
-  pages:
-    output: true
-    permalink: /:title
+permalink: pretty
 
 # Exclude from processing.
 exclude:

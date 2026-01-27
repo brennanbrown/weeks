@@ -1,282 +1,472 @@
 "1996-04-13":
   - name: "👶 I was born in Winnipeg, Manitoba"
-    desc: "Born on the convergence of the Assiniboine and Red rivers. A Métis child born into the confluence of European and Indigenous blood."
+    desc: "I was born on the convergence of the Assiniboine and Red rivers, into the confluence of European and Indigenous blood. My parents are Della Gordon and Vince Brown."
     category: "self"
     tags: ["identity", "métis"]
 
 "2001-09-11":
-  - name: "🌍 I witnessed the September 11th attacks change the world"
-    desc: "Terrorist attacks on the World Trade Center and Pentagon reshape global politics"
+  - name: "🌍 September 11th attacks"
+    desc: "On television, I witness the terrorist attacks on the World Trade Center and the Pentagon, reshaping global politics"
     category: "world"
     tags: ["history"]
 
+"2002-03-28":
+  - name: "👶 My brother was born"
+    desc: "My little brother Byron Brown was born on March 28th, 2002, he is six years younger than me."
+    category: "family"
+    tags: ["siblings"]
+
 "2004-08-01":
   - name: "🏡 I moved to Calgary with my family"
-    desc: "Mother sold home in Winnipeg's north end, divorced father, and moved me and my baby brother to Calgary."
+    desc: "My Mom sold our home in Winnipeg's north end, divorced my father, and moved me and my baby brother to Calgary, Alberta."
     category: "family"
     tags: ["relocation"]
 
 "2008-09-15":
   - name: "🌍 I lived through the Great Recession"
-    desc: "Global financial crisis caused by subprime mortgage collapse"
+    desc: "Like many others, my family endured the global financial crisis caused by subprime mortgage collapse and the real estate bubble"
     category: "world"
     tags: ["history", "economics"]
 
 "2010-06-07":
   - name: "📸 I started my photography portfolio"
-    desc: "Began sharing photography work on DeviantArt as 'qvl'"
+    desc: "I began to really get into photo-taking and sharing photography work on DeviantArt under the username Qvl"
     category: "art"
     tags: ["photography", "portfolio"]
     link: "https://www.deviantart.com/qvl"
 
 "2011-02-14":
   - name: "🎵 I released 'Harmonie: Early Compositions'"
-    desc: "Released my debut album of piano compositions on Bandcamp under the name Augustin"
+    desc: "Using Finale 2010, I wrote out sheet music digitally and released my debut album of piano compositions on Bandcamp under the name Augustin"
     category: "music"
     tags: ["composition", "piano"]
     link: "https://augustin.bandcamp.com/album/harmonie-early-compositions"
 
 "2011-08-12":
   - name: "✍️ I began publishing poetry online"
-    desc: "Started sharing poetry on DeviantArt as 'bk-blayze'"
+    desc: "After getting encouragement from my Language Arts teacher Ms. Moore, I began sharing poetry on DeviantArt under the username Bk-Blazye"
     category: "writing"
     tags: ["poetry", "portfolio"]
     link: "https://www.deviantart.com/bk-blayze/"
 
+"2012-07-01":
+  - name: "🎸 I volunteered at FolkFest"
+    desc: "Wanting to get free tickets to the fetsival, I signed up to volunteer as potwasher for Calgary's Folk Music Festival"
+    category: "volunteer"
+    tags: ["music", "community", "events"]
+
 "2012-04-01":
-  - name: "🎓 I dropped out of Ernest Manning High School"
-    desc: "Left traditional education system before completion"
+  - name: "❌ I dropped out of Ernest Manning High School"
+    desc: "Due to personal stress, mental health issues, and grief, I dropped out and left the traditional education system in Grade 11"
     category: "education"
     tags: ["schooling"]
 
 "2013-04-13":
   - name: "🎵 I released 'Riviè​re Dreamers'"
-    desc: "Released my second album of compositions on Bandcamp"
+    desc: "I released my second album of neo-classical compositions on Bandcamp"
     category: "music"
     tags: ["composition", "piano"]
     link: "https://augustin.bandcamp.com/album/rivi-re-dreamers"
 
 "2013-09-01":
   - name: "🎓 I started at Alternative High School"
-    desc: "Began alternative education path after leaving traditional system"
+    desc: "After a year of not going to school, I began an alternative education path that worked out a lot better for me"
     category: "education"
     tags: ["schooling"]
 
 "2015-06-15":
   - name: "🎓 I graduated from Alternative High School"
-    desc: "Completed high school education through alternative program"
+    desc: "I successfully completed my high school education through Alti in Grade 13, only a year late!"
     category: "education"
     tags: ["schooling"]
   
 "2015-09-15":
   - name: "👨‍🍳 I started working at the children's hospice"
-    desc: "Began position as cook, an experience that would influence much of my writing"
+    desc: "My dad got me a position as cook after I moved in with him, an experience that would influence much of my life and writing"
     category: "work"
     tags: ["career"]
 
+"2015-10-01":
+  - name: "🎧 I started volunteering on 7Cups"
+    desc: "I started providing active crisis listening and emotional support on the global mental health platform"
+    category: "volunteer"
+    tags: ["mental health", "support", "crisis"]
+    link: "https://www.7cups.com/@MaplePenguin"
+
 "2015-12-13":
   - name: "✍️ I published my first blog post on Medium"
-    desc: "Wrote 'The Best Time to Start a New Year's Resolution is Right Now'"
+    desc: "I finally started blogging and wrote my first article, 'The Best Time to Start a New Year's Resolution is Right Now'"
     category: "writing"
     tags: ["blogging"]
     link: "https://blog.brennanbrown.ca/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01"
 
 "2016-04-13":
   - name: "🎂 I turned 20: Becoming an Adult"
-    desc: "First annual review reflecting on the strangeness of entering adulthood and the weight of new responsibilities"
+    desc: "Stealing yet another idea from Buster Benson, I began a tradition of annual review, in my first one I reflected on the strangeness of entering adulthood and the weight of new responsibilities"
     category: "birthday"
     tags: ["annual review"]
     link: "https://blog.brennanbrown.ca/becoming-an-adult-10fd7135ce3c"
 
 "2016-09-07":
   - name: "🎵 I released 'Unreleased: A Soundtrack'"
-    desc: "Released my third album of compositions on Bandcamp"
+    desc: "Finally switching over from Finale to Ableton, I released my third album of compositions on Bandcamp, this one was soundtrack work I did for a game called Featherbent"
     category: "music"
     tags: ["composition", "piano"]
     link: "https://augustin.bandcamp.com/album/unreleased-a-soundtrack"
 
 "2017-04-13":
   - name: "🎂 I turned 21: Structure → Chaos"
-    desc: "Annual review examining the balance between structure and chaos, exploring the paradox of trying to find order in life"
+    desc: "My second annual review, this one examining the balance between structure and chaos, exploring the paradox of trying to find order in life"
     category: "birthday"
     tags: ["annual review"]
     link: "https://blog.brennanbrown.ca/21-structure-chaos-ca5545d8dfdb"
 
 "2017-09-01":
   - name: "🎓 I began studying at SAIT"
-    desc: "Started Information Technology program, serving as VP of Creative Writing Club"
+    desc: "I enrolled at the Southern Alberta Institute of Technology, aiming to get a diploma in Information Technology to start a career in software development"
     category: "education"
     tags: ["technology"]
 
+"2017-09-15":
+  - name: "📝 I published 'The Tao of Bees: How I Use Beeminder'"
+    desc: "I was offered to write a guest post on Beeminder, writing about my use of productivity tools and personal accountability systems"
+    category: "writing"
+    tags: ["blogging", "productivity"]
+    link: "https://blog.beeminder.com/tao"
+
 "2018-04-13":
   - name: "🎂 I turned 22: Accepting Good Responsibility"
-    desc: "Annual review about embracing meaningful responsibility and finding purpose in obligation"
+    desc: "My third annual review, this one about embracing meaningful responsibility and finding purpose in obligation"
     category: "birthday"
     tags: ["annual review"]
     link: "https://blog.brennanbrown.ca/22-accepting-good-responsibility-797366234e9f"
 
 "2018-06-30":
-  - name: "🎓 I dropped out of SAIT"
-    desc: "Didn't complete my diploma but took courses in courses focusing on hardware, OS, networking, and programming"
+  - name: "❌ I dropped out of SAIT"
+    desc: "Due to still working at the hospice, I didn't complete my diploma but I did take interesting courses focusing on hardware, OS, networking, and programming"
     category: "education"
     tags: ["technology"]
 
 "2019-04-13":
   - name: "🎂 I turned 23: Dying Without Seeing You Again"
-    desc: "Annual review on mortality, connection, and the importance of presence in relationships"
+    desc: "My forth annual review, this one focusing on mortality, connection, and the importance of presence in relationships"
     category: "birthday"
     tags: ["annual review"]
     link: "https://blog.brennanbrown.ca/23-dying-without-seeing-you-again-3d99ffb6bf83"
 
 "2020-01-15":
   - name: "👨‍🍳 I left my position at the children's hospice"
-    desc: "Concluded four years of service as cook to focus on academics and humanities"
+    desc: "The hospice switched contractors and I concluded four years of service as cook, unsure of what the next direction in my life would look like"
     category: "work"
     tags: ["career"]
 
 "2020-02-01":
-  - name: "💻 I began the EvolveU Full-Stack Development Program"
-    desc: "Started intensive bootcamp focused on collaborative development"
+  - name: "💻 I began the EvolveU Program"
+    desc: "Wanting to get back into programming, I started an intensive bootcamp focused on systems thinking and collaborative full-stack web development"
     category: "education"
     tags: ["technology", "programming"]
+    link: "https://brennan-evolveu.netlify.app/"
 
 "2020-03-14":
   - name: "🌍 I experienced the beginning of the COVID-19 pandemic"
-    desc: "Global lockdowns begin, fundamentally changing society"
+    desc: "The global lockdowns began, fundamentally changing society"
     category: "world"
     tags: ["history", "health"]
 
 "2020-04-13":
   - name: "🎂 I turned 24: Be Noteworthy"
-    desc: "Annual review about making an impact and leaving a meaningful legacy"
+    desc: "My fifth annual review about making an impact and leaving a meaningful legacy"
     category: "birthday"
     tags: ["annual review"]
     link: "https://blog.brennanbrown.ca/noteworthy-76d9f875d04c"
 
 "2020-06-07":
   - name: "🌐 I launched brennanbrown.ca"
-    desc: "Created my first personal website and portfolio"
+    desc: "With what I learned in EvolveU, I created my personal website and portfolio"
     category: "technology"
     tags: ["web development"]
     link: "http://brennanbrown.ca"
 
 "2020-08-31":
   - name: "💻 I completed the EvolveU Program"
-    desc: "Finished full-stack development bootcamp with focus on JavaScript, React, Python"
+    desc: "I finished the full-stack development bootcamp with focus on JavaScript, React, Python"
     category: "education"
     tags: ["technology", "programming"]
 
 "2021-04-13":
   - name: "🎂 I turned 25: The Mystery of My Broken Heart"
-    desc: "Annual review examining vulnerability, healing, and personal growth through difficult times"
+    desc: "My sixth annual review examining vulnerability, healing, and personal growth through difficult times"
     category: "birthday"
     tags: ["annual review"]
     link: "https://blog.brennanbrown.ca/25-the-mystery-of-my-broken-heart-137ffe60da04"
 
 "2021-08-31":
   - name: "📚 I published 'The Dogwood Verses'"
-    desc: "Debut poetry collection featuring over 300 works divided into four books"
+    desc: "I collected the previous ten years of poetry I wrote and self-published on Lulu and Amazon, featuring over 300 works divided into four books written over a decade"
     category: "writing"
     tags: ["publication", "poetry"]
+    link: "https://www.amazon.ca/DOGWOOD-VERSES-Chapbook-Selected-2011-2021/dp/B09KN7Y9K1/"
 
-"2021-09-01":
-  - name: "📚 I published 'Selected Essays & Prose'"
-    desc: "Collection of essays and creative prose spanning a decade"
-    category: "writing"
-    tags: ["publication", "essays"]
-
-"2021-09-01":
+"2021-09-09":
   - name: "📚 I began studying at Mount Royal University"
-    desc: "Started English Honours program with double minor in Creative Writing & Religious Studies"
+    desc: "COVID-19 made me realize I wanted to pursue humanities instead of making money in software development, so I enrolled and got accepted into the English Honours program at MRU, with double minor in Creative Writing & Religious Studies"
     category: "education"
     tags: ["writing", "academics"]
 
 "2022-04-13":
   - name: "🎂 I turned 26: Waking Up"
-    desc: "Annual review reflecting on transitions, pauses, and the nature of creative work"
+    desc: "My seventh annual review reflecting on transitions, pauses, and the nature of creative work"
     category: "birthday"
     tags: ["annual review"]
     link: "https://medium.com/@brennanbrown/draft-hiatus-ii-317a1c1b1a54"
 
 "2022-04-28":
-  - name: "🪶 I officially registered in the Manitoba Métis Federation"
-    desc: "Became registered member of MMF"
+  - name: "🪶 I registered in the Manitoba Métis Federation"
+    desc: "My dad did the paperwork necessary to have me be registered as a member of MMF, connecting me to my heritage and identity"
     category: "identity"
     tags: ["métis", "community"]
 
-"2022-05-01":
-  - name: "📈 I began the OnRamp Growth Marketing Program"
-    desc: "Started 321 Growth Academy's pilot cohort"
+"2022-05-06":
+  - name: "📈 I began the OnRamp Marketing Program"
+    desc: "I managed to get myself enrolled into 321 Growth Academy's pilot cohort, focusing on growth marketing and sales"
     category: "education"
     tags: ["marketing"]
+    link: "https://www.linkedin.com/school/joinonramp/"
+
+"2022-08-01":
+  - name: "📝 I joined Writers' Guild of Alberta"
+    desc: "I became member of provincial writing organization, supporting Alberta's literary community (membership is free when you're in university)"
+    category: "writing"
+    tags: ["community", "professional"]
 
 "2022-09-01":
   - name: "✍️ I founded Write Club"
-    desc: "Created a Queer-led and Indigenous-led creative collective with over 100 members"
+    desc: "I started a creative writing collective while at university and served as President for three years"
     category: "work"
     tags: ["writing", "community"]
     link: "https://writeclub.ca"
 
 "2022-09-30":
-  - name: "📈 I completed the OnRamp Growth Marketing Program"
-    desc: "Finished marketing bootcamp with focus on content strategy and growth"
+  - name: "📈 I completed the OnRamp Marketing Program"
+    desc: "I finished marketing bootcamp with my focus being on content strategy and growth"
     category: "education"
     tags: ["marketing"]
 
+"2022-10-07":
+  - name: "📰 I became Newsletter Editor for PMV"
+    desc: "I was briefly a newsletter editor for Project Management Volunteers, improving distribution and content creation processes"
+    category: "volunteer"
+    tags: ["marketing", "nonprofit"]
+
 "2023-03-13":
   - name: "📚 I published 'Holy Waterfall'"
-    desc: "Poetry collection exploring Indigenous identity and spirituality"
+    desc: "I published my first poetry chapbook, exploring Indigenous identity, religious beliefs, traumatic past, family, and love as a young Queer Métis poet"
     category: "writing"
-    tags: ["poetry", "publication"]
+    tags: ["poetry", "publication", "indigenous"]
+    link: "https://brennanbrown.gumroad.com/l/holy-waterfall"
 
 "2023-09-01":
   - name: "🌱 I began consulting for Calgary Vegan Society"
-    desc: "Providing guidance on digital presence and marketing strategies"
+    desc: "I provided guidance on digital presence and marketing strategies for Alberta's leading plant-based non-profit"
     category: "volunteer"
     tags: ["community", "marketing"]
 
+"2023-09-15":
+  - name: "🏆 I joined Golden Key Honour Society"
+    desc: "I was inducted into an international honour society recognizing academic excellence"
+    category: "education"
+    tags: ["academics", "honours"]
+
 "2023-12-17":
   - name: "📚 I published 'The Weight of Yr Heart'"
-    desc: "Collection of thirty-seven love poems examining relationship complexities"
+    desc: "A collection of thirty-seven love poems for my then-partner Connie, examining tenderness and relationships through vulnerability"
     category: "writing"
-    tags: ["poetry", "publication"]
+    tags: ["poetry", "publication", "love"]
+    link: "https://brennanbrown.gumroad.com/l/weight-of-yr-heart"
 
-"2024-02-01":
-  - name: "📚 I contributed to 'On the Fringe: A Collection of Filth'"
-    desc: "Write Club's first anthology publication"
+"2024-03-19":
+  - name: "📓 'On the Fringe: A Collection of Filth' published"
+    desc: "Write Club published their first anthology with my foreword, exploring difficult and taboo topics of human experience: sex, death, and crime"
     category: "writing"
-    tags: ["publication", "anthology"]
+    tags: ["publication", "anthology", "foreword"]
+    link: "https://www.amazon.ca/Fringe-Collection-Filth-Dana%C3%AB-Webb/dp/B0CYQ1NRY9/"
 
 "2024-04-09":
-  - name: "📚 I published my first scholarly article"
-    desc: "Published research examining 'Nimkii' from This Place: 150 Years Retold in Mount Royal Undergraduate Humanities Review"
+  - name: "🎓 I published my first scholarly article"
+    desc: "I published my peer-edited paper, examining 'Nimkii' from This Place: 150 Years Retold in the Mount Royal Undergraduate Humanities Review"
     category: "writing"
     tags: ["academic", "publication", "indigenous studies"]
     link: "https://mrujs.mtroyal.ca/index.php/mruhr/article/view/768"
 
 "2024-08-03":
   - name: "📚 I published 'Your Brothers Keeper'"
-    desc: "Poetry collection exploring connections with Russian literature"
+    desc: "A poetry collection serving as a love letter to Dostoevsky's novel The Brothers Karamazov, exploring faith, doubt, and Queer retellings"
     category: "writing"
-    tags: ["poetry", "publication"]
+    tags: ["poetry", "publication", "literature"]
+    link: "https://brennanbrown.gumroad.com/l/your-brothers-keeper"
 
 "2024-08-11":
   - name: "📚 I published 'The Reaper and Her Sickle'"
-    desc: "250-page compendium of experimental writings from university years"
+    desc: "A larger book of poetry which was experimental writings from my university years. Rough cuts, spares, afterthoughts, and B-sides. Glimpse into my creative process"
     category: "writing"
-    tags: ["poetry", "publication"]
+    tags: ["poetry", "publication", "experimental"]
+    link: "https://brennanbrown.gumroad.com/l/the-reaper-and-her-sickle"
+
+"2024-12-01":
+  - name: "🎓 I completed my honours thesis"
+    desc: "I presented my thesis for my Honours program: 'How the English Degree Will Save the World' which examined the transformative potential of literary studies through pedagogy and a concept I coined called 'bloodwriting'"
+    category: "education"
+    tags: ["academics", "thesis", "indigenous studies"]
+    link: "https://doi.org/10.13140/RG.2.2.25021.37600"
+
+"2024-12-11":
+  - name: "📚 I published 'PRAIRIE BOYSPIRIT: An NDN Memoir'"
+    desc: "A series of lyricessays confronting addiction, white-passingness, self-harm, and cultural displacement as a Queer Métis man in Alberta"
+    category: "writing"
+    tags: ["publication", "essays", "memoir", "indigenous"]
+    link: "https://brennanbrown.gumroad.com/l/prairie-boyspirit"
+
+"2025-04-13":
+  - name: "🎂 I turned 29: Done"
+    desc: "Annual review reflecting on university completion, burnout, community building, and the uncertain path forward as a writer"
+    category: "birthday"
+    tags: ["annual review"]
+    link: "https://brennan.day/29-done/"
+
+"2025-04-12":
+  - name: "📓 'On the Fringe: A Collection of Community' published"
+    desc: "Write Club's second anthology with my foreword, showcasing over twenty emerging writers exploring tradition, companionship, and vision"
+    category: "writing"
+    tags: ["publication", "anthology", "foreword", "community"]
+    link: "https://www.amazon.ca/Fringe-Collection-Felix-Costa-Gomez/dp/B0F4PKFRZQ/"
 
 "2025-04-01":
-  - name: "🎓 I will graduate from Mount Royal University"
-    desc: "Anticipated completion of English Honours degree with 3.9 GPA"
+  - name: "🎓 I graduated from Mount Royal University"
+    desc: "I successfully completed my Bachelor of Arts degree, majoring in English Honours with a 3.8 GPA by the end of it!"
     category: "education"
     tags: ["academics"]
+
+"2025-08-01":
+  - name: "🍓 I founded Berry House"
+    desc: "After graduating university, I started my own business, providing JAMstack web development and editorial services through a dual-mission model"
+    category: "work"
+    tags: ["entrepreneurship", "web development", "social impact"]
+    link: "https://berryhouse.ca/"
+
+"2025-09-01":
+  - name: "🎮 I began QA testing at Lysto"
+    desc: "Quality Assurance Playtester conducting methodical gameplay testing across iOS and Android titles"
+    category: "work"
+    tags: ["qa", "gaming", "testing"]
+
+"2025-12-17":
+  - name: "🔆 I launched Brennan.Day"
+    desc: "Created an a11y-friendly IndieWeb personal website featuring all of my work in a fun, joyful way!"
+    category: "technology"
+    tags: ["web development", "indieweb"]
+    link: "https://brennan.day"
+
+"2029-04-13":
+  - name: "☄️ Asteroid Apophis Close Approach"
+    desc: "Asteroid 99942 Apophis ('God of Chaos') (measuring 450m x 170m) will pass within 31,000 km of Earth's surface - closer than geostationary satellites and visible to the naked eye from Europe, Africa, and Asia. First time an asteroid this size with advance warning has come this close to Earth."
+    category: "world"
+    tags: ["astronomy", "asteroid"]
+    link: "https://en.wikipedia.org/wiki/99942_Apophis"
+    link: "https://science.nasa.gov/solar-system/asteroids/apophis/"
+    link: "https://www.planetary.org/articles/will-apophis-hit-earth"
+
+"2038-01-19":
+  - name: "💻 The Y2038 Problem"
+    desc: "At 03:14:07 UTC, 32-bit systems will experience timestamp overflow, potentially causing critical failures in embedded systems, infrastructure, and legacy software that haven't upgraded to 64-bit timestamps. Similar to Y2K but affecting systems that weren't updated."
+    category: "world"
+    tags: ["technology", "infrastructure"]
+    link: "https://en.wikipedia.org/wiki/Year_2038_problem"
+    link: "https://theyear2038problem.com/"
+    link: "https://inventivehq.com/blog/year-2038-problem-explained"
+
+"2040-09-08":
+  - name: "🪐 Five-Planet Alignment"
+    desc: "Mercury, Venus, Mars, Jupiter, and Saturn will all fit within a 9.3-degree diameter circle in the sky, with a thin crescent moon below them. This rare alignment won't occur again for centuries."
+    category: "world"
+    tags: ["astronomy", "planets"]
+    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
+    link: "https://www.space.com/stargazing/when-is-next-planetary-parade-how-rare-are-they"
+
+"2045-05-08":
+  - name: "🌍 100th Anniversary of VE Day"
+    desc: "Centennial of Nazi Germany's unconditional surrender, marking the end of World War II in Europe. May 8, 1945 marked one of the most significant turning points in human history."
+    category: "world"
+    tags: ["history", "anniversary", "peace"]
+    link: "https://en.wikipedia.org/wiki/Victory_in_Europe_Day"
+    link: "https://www.defense.gov/Multimedia/Experience/VE-Day/"
+
+"2045-08-12":
+  - name: "☀️ Total Solar Eclipse (Coast-to-Coast USA)"
+    desc: "Total solar eclipse crossing the entire United States from California to Florida. Some parts of Florida will experience totality for 6 minutes - the longest eclipse in US history. Following the remarkable 2024 eclipse by just 21 years."
+    category: "world"
+    tags: ["astronomy", "eclipse"]
+    link: "https://www.cbsnews.com/news/next-total-solar-eclipse-2044-2045/"
+    link: "https://nationaleclipse.com/maps/map_08232044.html"
+    link: "https://en.wikipedia.org/wiki/List_of_future_astronomical_events"
+
+
+"2050-01-01":
+  - name: "🌍 Global Net Zero Emissions Target Deadline"
+    desc: "The year 2050 marks the target date set by the Paris Agreement for achieving net-zero carbon dioxide emissions globally. This deadline represents humanity's commitment to limiting global warming to 1.5°C above pre-industrial levels. Whether achieved or not, this date will mark a critical assessment point for climate action."
+    category: "world"
+    tags: ["climate", "environment", "milestone"]
+    link: "https://unstats.un.org/sdgs/report/2021/goal-13/"
+    link: "https://www.unep.org/news-and-stories/story/without-big-changes-what-environment-will-look-2050"
+    link: "https://www.nature.com/articles/d41586-025-04100-6"
+
+"2052-12-06":
+  - name: "🌕 Closest Supermoon of the Century"
+    desc: "The Moon will reach its closest approach to Earth at 221,472 miles (356,424 km) - the closest full moon of the entire 21st century. An astronomical event that won't be matched for another hundred years."
+    category: "world"
+    tags: ["astronomy", "moon"]
+    link: "https://en.wikipedia.org/wiki/Supermoon"
+    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
+    link: "https://www.futuretimeline.net/21stcentury/2052.htm"
+
+"2061-07-28":
+  - name: "☄️ Halley's Comet Returns"
+    desc: "Halley's Comet reaches perihelion and will be visible from Earth for several months. This 76-year periodic comet has been observed and recorded for over 2,000 years. Last visible in 1986, this will be a once-in-a-lifetime viewing opportunity for most people alive today."
+    category: "world"
+    tags: ["astronomy", "comet"]
+    link: "https://en.wikipedia.org/wiki/Halley's_Comet"
+    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
+    link: "https://www.space.com/19878-halleys-comet.html"
+
+"2065-11-22":
+  - name: "🪐 Venus Transits Jupiter"
+    desc: "At 12:43 UTC, Venus will pass directly in front of Jupiter - the first visible transit between solar system planets since 1818. This extraordinarily rare event won't happen again for centuries, though it will be only 8° from the Sun making observation challenging."
+    category: "world"
+    tags: ["astronomy", "planets", "occultation"]
+    link: "https://en.wikipedia.org/wiki/Planetary_transits_and_occultations"
+    link: "https://www.astronomy.com/observing/do-the-planets-ever-transit-or-occult-each-other/"
+    link: "https://www.timeanddate.com/astronomy/seven-big-astro-events.html"
+
+"2067-07-01":
+  - name: "🇨🇦 Canada's Bicentennial"
+    desc: "The 200th anniversary of Canadian Confederation. As a Métis person born in Winnipeg and now living in Calgary, this anniversary will mark two centuries since the British North America Act of 1867, a deeply complex legacy for Indigenous peoples, whose lands these have always been. A moment for reflection on reconciliation, sovereignty, and what Canada could become."
+    category: "world"
+    tags: ["canada", "anniversary", "indigenous", "métis", "reconciliation"]
+    link: "https://www.federationhss.ca/en/blog/sesquicentennial-no-longer-just-about-canada"
+    link: "https://en.wikipedia.org/wiki/Canadian_Centennial"
+    link: "https://www.cbc.ca/2017/canada-is-celebrating-150-years-of-what-exactly-1.3883315"
 
 "2071-04-13":
   - name: "☠️ I will reach my statistical life expectancy"
     desc: "Based on average male life expectancy in Canada"
     category: "future"
     tags: ["mortality"]
+
+"2076-07-04":
+  - name: "🇺🇸 United States Tricentennial"
+    desc: "The 300th anniversary of the signing of the Declaration of Independence. Three centuries since July 4, 1776. Will America survive?"
+    category: "world"
+    tags: ["america", "anniversary", "history"]
+    link: "https://en.wikipedia.org/wiki/United_States_Semiquincentennial"
 
 "2096-04-13":
   - name: "🚲 I will ride a bike on my 100th birthday"
