@@ -376,6 +376,20 @@
     tags: ["web development", "indieweb"]
     link: "https://brennan.day"
 
+"2026-04-01":
+  - name: "🎓 I enrolled at University of the People"
+    desc: "I began studying for a Bachelor's degree in Computer Science at the University of the People, a tuition-free, accredited online institution"
+    category: "education"
+    tags: ["technology", "computer science"]
+    link: "https://www.uopeople.edu/"
+
+"2026-04-13":
+  - name: "🎂 I turned 30: Finding My Footing"
+    desc: "Examining the cross-cultural agreement—from Confucius to the Hebrew Bible to Zoroaster—that thirty is when formation ends and function begins. My dark year of depression, and writing 200,000 words since."
+    category: "birthday"
+    tags: ["annual review"]
+    link: "https://brennan.day/30-finding-my-footing/"
+
 "2026-06-01":
   - name: "🔥 I will start Fireweed Writing School"
     desc: "I'm so excited to be starting this low-cost online creative writing course with the pilot cohort!"
