@@ -390,12 +390,19 @@
     tags: ["annual review"]
     link: "https://brennan.day/30-finding-my-footing/"
 
-"2026-06-01":
-  - name: "🔥 I will start Fireweed Writing School"
-    desc: "I'm so excited to be starting this low-cost online creative writing course with the pilot cohort!"
+"2026-05-28":
+  - name: "🤣 I launched fanfiction.lol"
+    desc: "I launched a transformative works archive, a fun, silly, low-stakes fandom platform for sharing stories."
     category: "work"
-    tags: ["writing", "education"]
-    link: "https://fireweed.school"
+    tags: ["writing", "fanfiction"]
+    link: "https://fanfiction.lol"
+
+# "2026-06-01":
+#   - name: "🔥 I will start Fireweed Writing School"
+#     desc: "I'm so excited to be starting this low-cost online creative writing course with the pilot cohort!"
+#     category: "work"
+#     tags: ["writing", "education"]
+#     link: "https://fireweed.school"
 
 "2029-04-13":
   - name: "☄️ Asteroid Apophis Close Approach"

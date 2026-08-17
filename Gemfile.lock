@@ -169,7 +169,7 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 RUBY VERSION
-  ruby 3.2.2
+  ruby 3.2.10
 
 BUNDLED WITH
   4.0.4
