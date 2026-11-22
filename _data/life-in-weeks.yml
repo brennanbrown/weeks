@@ -363,6 +363,13 @@
     tags: ["entrepreneurship", "web development", "social impact"]
     link: "https://berryhouse.ca/"
 
+"2025-08-10":
+  - name: "📖 I wrote one million words in my journal"
+    desc: "Nearly fourteen years after my first entry, my daily writing on 750words.com passed one million words, a habit that began on September 17th, 2011"
+    category: "writing"
+    tags: ["journal", "personal", "milestone"]
+    link: "https://750words.com/person/brennan"
+
 "2025-09-01":
   - name: "🎮 I began QA testing at Lysto"
     desc: "Quality Assurance Playtester conducting methodical gameplay testing across iOS and Android titles"
@@ -393,9 +400,37 @@
 "2026-05-28":
   - name: "🤣 I launched fanfiction.lol"
     desc: "I launched a transformative works archive, a fun, silly, low-stakes fandom platform for sharing stories."
-    category: "work"
+    category: "technology"
     tags: ["writing", "fanfiction"]
     link: "https://fanfiction.lol"
+
+"2026-06-15":
+  - name: "🌐 I launched folk.zone"
+    desc: "I announced folk.zone, a collection of free, community-run services built as an IndieWeb commons and self-hosted on hardware in my living space"
+    category: "technology"
+    tags: ["indieweb", "self-hosting", "community"]
+    link: "https://folk.zone"
+
+"2026-11-04":
+  - name: "🎉 fanfiction.lol reached 1,000 members"
+    desc: "Less than six months after launching, the archive passed 1,000 members, with new readers and writers joining every day"
+    category: "technology"
+    tags: ["writing", "fanfiction", "community", "milestone"]
+    link: "https://fanfiction.lol"
+
+"2026-11-13":
+  - name: "📚 I published 'Golden Boy'"
+    desc: "A poetry collection of 338 pages gathering my poems from 2024 to 2026: witness poetry that keeps finding churches in places that aren't churches. Released on November 20th alongside 'Constellation of Living Stars'"
+    category: "writing"
+    tags: ["poetry", "publication"]
+    link: "https://brennanbrown.gumroad.com/l/golden-boy"
+
+"2026-11-20":
+  - name: "📚 I published 'Constellation of Living Stars'"
+    desc: "The first volume of essays from my blog: sixty-one essays across 672 pages, with over 1,400 Chicago-style footnotes. Volume Two is planned for early 2027"
+    category: "writing"
+    tags: ["essays", "publication", "blog"]
+    link: "https://brennanbrown.gumroad.com/l/constellation-of-living-stars"
 
 # "2026-06-01":
 #   - name: "🔥 I will start Fireweed Writing School"
